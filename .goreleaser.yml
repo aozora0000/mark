@@ -5,7 +5,7 @@ before:
     - go mod download
 builds:
   -
-    binary: current
+    binary: mark
     env:
       - CGO_ENABLED=0
     goos:

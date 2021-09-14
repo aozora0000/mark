@@ -1,3 +1,3 @@
-module github.com/aozora0000/current
+module github.com/aozora0000/mark
 
 go 1.14
